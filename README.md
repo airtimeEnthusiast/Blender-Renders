@@ -24,7 +24,7 @@
 ---
 
 ### Project Engineering
-*In this Blender scene, I recreated an office environment inspired by my recent internship at Largo Concrete as a project engineer. The scene features a desk with a detailed structural drawing, accompanied by essential drafting tools like a protractor and slide ruler. Vintage tools were added to evoke the aesthetics of civil engineering in the late 19th and early 20th centuries. Various documents and a vintage lamp add to the ambiance, creating a realistic setting reminiscent of the era.*
+*In this Blender scene, I recreated an office environment inspired by my internship at Largo Concrete as a project engineer. The scene features a desk with a detailed structural drawing, accompanied by essential drafting tools like a protractor and slide ruler. Vintage tools were added to evoke the aesthetics of civil engineering in the late 19th and early 20th centuries. Various documents and a vintage lamp add to the ambiance, creating a realistic setting reminiscent of the era.*
 
 <p align="center">
   <img src="assets/ProjectEngineering.png?raw=true" alt="project engineering"/>
